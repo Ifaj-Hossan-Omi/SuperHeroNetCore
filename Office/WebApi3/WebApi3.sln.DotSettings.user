@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d65cfc8c_002D018e_002D4268_002Da2a2_002D083677894a17/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TasGetAllHeroes_Return_All_Heros" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::BEE7734E-6BD9-4FCE-83FF-5FD8C190C575::net7.0::WebApi3.Test.SuperHeroControllerTest.TasGetAllHeroes_Return_All_Heros&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
